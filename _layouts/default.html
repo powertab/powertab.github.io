@@ -23,13 +23,20 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <p class="view"><a href="{{ site.links.repository_url }}">View on GitHub </a></p>
+        <p class="view">
+          <a href="{{ site.links.repository_url }}">GitHub Project</a>
+          <br/>
+          <a href="{{ site.links.bugtracker_url }}">File Bugs</a>
+          <br/>
+          <a href="{{ site.links.translations_url }}">Translations</a>
+          <br/>
+          <a href="{{ site.links.discussions_url }}">Questions / Discussions</a>
+        </p>
 
         <ul class="download_links">
           <li><a href="{{ site.links.download_windows }}">Download <strong>Windows</strong></a></li>
           <li><a href="{{ site.links.download_macos }}">Download <strong>macOS</strong></a></li>
           <li><a href="{{ site.links.download_snap }}">Download <strong>Linux (Snap)</strong></a></li>
-          <li><a href="{{ site.links.download_tar }}">Download <strong>Tarball</strong></a></li>
         </ul>
       </header>
       <section>

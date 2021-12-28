@@ -8,7 +8,9 @@ logo: images/app_icon.png
 version: 2.0.0-alpha15
 links:
   repository_url: https://github.com/powertab/powertabeditor
+  translations_url: https://hosted.weblate.org/engage/powertabeditor
+  bugtracker_url: https://github.com/powertab/powertabeditor/issues
+  discussions_url: https://github.com/powertab/powertabeditor/discussions
   download_windows: https://github.com/powertab/powertabeditor/releases/download/2.0.0-alpha15/powertabeditor-windows-x64.exe
   download_macos: https://github.com/powertab/powertabeditor/releases/download/2.0.0-alpha15/powertabeditor-osx.dmg
   download_snap: https://snapcraft.io/powertabeditor
-  download_tar: https://github.com/powertab/powertabeditor/archive/refs/tags/2.0.0-alpha15.tar.gz
