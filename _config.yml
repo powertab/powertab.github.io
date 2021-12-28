@@ -14,3 +14,4 @@ links:
   download_windows: https://github.com/powertab/powertabeditor/releases/download/2.0.0-alpha16/powertabeditor-windows-x64-2.0.0-alpha16.exe
   download_macos: https://github.com/powertab/powertabeditor/releases/download/2.0.0-alpha16/powertabeditor-osx-2.0.0-alpha16.dmg
   download_snap: https://snapcraft.io/powertabeditor
+  download_flatpak: https://flathub.org/apps/details/com.github.powertab.powertabeditor
