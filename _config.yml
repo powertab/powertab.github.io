@@ -5,13 +5,13 @@ plugins:
 title: Power Tab Editor
 description: View and edit guitar tablature
 logo: images/app_icon.png
-version: 2.0.0-alpha19
+version: 2.0.20
 links:
   repository_url: https://github.com/powertab/powertabeditor
   translations_url: https://hosted.weblate.org/engage/powertabeditor
   bugtracker_url: https://github.com/powertab/powertabeditor/issues
   discussions_url: https://github.com/powertab/powertabeditor/discussions
-  download_windows: https://github.com/powertab/powertabeditor/releases/download/2.0.0-alpha19/powertabeditor-windows-x64-2.0.0-alpha19.exe
-  download_macos: https://github.com/powertab/powertabeditor/releases/download/2.0.0-alpha19/powertabeditor-osx-2.0.0-alpha19.dmg
+  download_windows: https://github.com/powertab/powertabeditor/releases/download/2.0.20/powertabeditor-windows-2.0.20.exe
+  download_macos: https://github.com/powertab/powertabeditor/releases/download/2.0.20/powertabeditor-macos-2.0.20.dmg
   download_snap: https://snapcraft.io/powertabeditor
   download_flatpak: https://flathub.org/apps/details/com.github.powertab.powertabeditor
